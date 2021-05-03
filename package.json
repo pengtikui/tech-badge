@@ -1,6 +1,7 @@
 {
   "name": "tech-badge",
   "version": "0.1.0",
+  "author": "pengtikui",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,8 +9,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.2.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "prettier": "^2.2.1",
+    "tailwindcss": "^2.1.2"
   }
 }
