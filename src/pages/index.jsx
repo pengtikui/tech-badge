@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Head from 'next/head';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -23,6 +24,9 @@ export default function Home({ badges }) {
 
   return (
     <div className="">
+      <Head>
+        <title>Tech Badge</title>
+      </Head>
       <Header />
       <div className="max-w-screen-md mx-auto pt-6">
         <div className="grid grid-cols-3 gap-x-4">
