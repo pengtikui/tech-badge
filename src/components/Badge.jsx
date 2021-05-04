@@ -19,13 +19,11 @@ const Badge = ({ badge, style }) => {
   }, [badge, style]);
 
   return (
-    <div className="grid grid-cols-4 items-center border border-gray-100 -mt-px">
-      <div className="col-span-1 self-stretch flex items-center px-4 border-r border-gray-200">
-        <img src={url} alt="" />
-      </div>
-      <div className="col-span-3 px-4 py-2">
-        <p className="text-gray-700 text-sm leading-snug break-all">{url}</p>
-      </div>
+    <div className="flex flex-col items-center justify-center p-4 border border-gray-100">
+      <img src={url} alt={badge.name} />
+      <p className="mt-2 text-xs text-gray-700 font-medium leading-none">
+        {badge.name}
+      </p>
     </div>
   );
 };

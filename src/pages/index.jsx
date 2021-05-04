@@ -42,7 +42,7 @@ export default function Home({ badges }) {
         {badges.map((badge) => (
           <div key={badge.title} className="mt-6">
             <h2 className="text-lg font-semibold">{badge.title}</h2>
-            <div className="mt-2">
+            <div className="mt-2 grid grid-cols-3 gap-3">
               {badge.list.map((item) => (
                 <Badge key={item.name} badge={item} style={style} />
               ))}
