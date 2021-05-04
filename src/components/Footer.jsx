@@ -8,6 +8,7 @@ const Footer = () => {
             className="underline hover:text-gray-800"
             href="https://pengtikui.cn"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Paranoid_K
           </a>
@@ -17,6 +18,7 @@ const Footer = () => {
             className="underline hover:text-gray-800"
             href="https://vercel.com"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Vercel
           </a>

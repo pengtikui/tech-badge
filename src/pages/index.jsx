@@ -26,6 +26,7 @@ export default function Home({ badges }) {
     <div className="">
       <Head>
         <title>Tech Badge</title>
+        <meta name="description" content="Tech stack badges" />
       </Head>
       <Header />
       <div className="max-w-screen-md mx-auto pt-6">

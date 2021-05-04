@@ -7,7 +7,12 @@ const Header = () => {
         <h2 className="text-black text-xl font-bold hover:text-gray-800">
           <Link href="/">Tech Badge</Link>
         </h2>
-        <a href="https://github.com/pengtikui/tech-badge">
+        <a
+          href="https://github.com/pengtikui/tech-badge"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="sr-only">GitHub</span>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
