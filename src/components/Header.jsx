@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const Header = () => {
   return (
-    <header className="sticky top-0 bg-white bg-opacity-50 backdrop-filter backdrop-blur">
+    <header className="sticky top-0 z-50 bg-white bg-opacity-50 backdrop-filter backdrop-blur">
       <div className="max-w-screen-md mx-auto flex items-center justify-between py-4 border-b border-gray-100">
         <h2 className="text-black text-xl font-bold hover:text-gray-800">
           <Link href="/">Tech Badge</Link>
