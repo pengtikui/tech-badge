@@ -1,11 +1,8 @@
 import { useState } from 'react';
-import Head from 'next/head';
-
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import Badge from '../components/Badge';
 import Select from '../components/Select';
-
 import { getData } from '../lib/data';
 
 const STYLES = [
@@ -23,15 +20,11 @@ export default function Home({ badges }) {
   };
 
   return (
-    <div className="">
-      <Head>
-        <title>Tech Badge</title>
-        <meta name="description" content="Tech stack badges" />
-      </Head>
+    <>
       <Header />
-      <div className="max-w-screen-md mx-auto pt-6">
+      <div className="max-w-screen-md mx-auto pt-6 px-4 md:px-0">
         <div className="grid grid-cols-3 gap-x-4">
-          <div className="flex items-center">
+          <div className="col-span-2 md:col-span-1 flex items-center">
             <label className="mr-2 font-medium">Style</label>
             <Select
               options={STYLES}
@@ -43,7 +36,7 @@ export default function Home({ badges }) {
         {badges.map((badge) => (
           <div key={badge.title} className="mt-6">
             <h2 className="text-lg font-semibold">{badge.title}</h2>
-            <div className="mt-2 grid grid-cols-3 gap-3">
+            <div className="mt-2 grid grid-cols-2 md:grid-cols-3 gap-3">
               {badge.list.map((item) => (
                 <Badge key={item.name} badge={item} style={style} />
               ))}
@@ -52,7 +45,7 @@ export default function Home({ badges }) {
         ))}
       </div>
       <Footer />
-    </div>
+    </>
   );
 }
 

@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer>
-      <div className="max-w-screen-md mx-auto pt-8 pb-6">
+      <div className="max-w-screen-md mx-auto pt-8 pb-6 px-4 md:px-0">
         <p className="text-gray-600 text-sm">
           Made by{' '}
           <a
