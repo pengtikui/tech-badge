@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Programming Languages",
+    "list": [
+      {
+        "name": "Node.js",
+        "color": "#43853d",
+        "logo": "node.js",
+        "logoColor": "white"
+      },
+      {
+        "name": "JavaScript",
+        "color": "#323330",
+        "logo": "javascript",
+        "logoColor": "#F7DF1E"
+      },
+      {
+        "name": "TypeScript",
+        "color": "#007acc",
+        "logo": "typescript",
+        "logoColor": "white"
+      },
+      {
+        "name": "HTML5",
+        "color": "#e34f26",
+        "logo": "html5",
+        "logoColor": "white"
+      },
+      {
+        "name": "CSS3",
+        "color": "#1572b6",
+        "logo": "css3",
+        "logoColor": "white"
+      },
+      {
+        "name": "Python",
+        "color": "#14354c",
+        "logo": "python",
+        "logoColor": "white"
+      },
+      {
+        "name": "PHP",
+        "color": "#777bb4",
+        "logo": "php",
+        "logoColor": "white"
+      },
+      {
+        "name": "Go",
+        "color": "#00add8",
+        "logo": "go",
+        "logoColor": "white"
+      },
+      {
+        "name": "Swift",
+        "color": "#fa7343",
+        "logo": "swift",
+        "logoColor": "white"
+      },
+      {
+        "name": "Dart",
+        "color": "#0175c2",
+        "logo": "dart",
+        "logoColor": "white"
+      },
+      {
+        "name": "GraphQL",
+        "color": "#e10098",
+        "logo": "graphql",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Frameworks & libraries",
+    "list": [
+      {
+        "name": "Express.js",
+        "color": "#000000",
+        "logo": "express",
+        "logoColor": "white"
+      },
+      {
+        "name": "React",
+        "color": "#20232a",
+        "logo": "react",
+        "logoColor": "#61dafb"
+      },
+      {
+        "name": "Vue.js",
+        "color": "#35495e",
+        "logo": "vue.js",
+        "logoColor": "#4fc08d"
+      },
+      {
+        "name": "Angular",
+        "color": "#dd0031",
+        "logo": "angular",
+        "logoColor": "white"
+      },
+      {
+        "name": "TailwindCSS",
+        "color": "#38b2ac",
+        "logo": "tailwind-css",
+        "logoColor": "white"
+      },
+      {
+        "name": "Next.js",
+        "color": "#000000",
+        "logo": "next.js",
+        "logoColor": "white"
+      },
+      {
+        "name": "RxJS",
+        "color": "#b7178c",
+        "logo": "reactivex",
+        "logoColor": "white"
+      },
+      {
+        "name": "Svelte",
+        "color": "#f1413d",
+        "logo": "svelte",
+        "logoColor": "white"
+      },
+      {
+        "name": "NestJS",
+        "color": "#e0234e",
+        "logo": "nestjs",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "IDEs & Editors",
+    "list": [
+      {
+        "name": "Visual Studio Code",
+        "color": "#0078d7",
+        "logo": "visual-studio-code",
+        "logoColor": "white"
+      },
+      {
+        "name": "Xcode",
+        "color": "#007acc",
+        "logo": "xcode",
+        "logoColor": "white"
+      },
+      {
+        "name": "Sublime Text",
+        "color": "#4b4b4b",
+        "logo": "sublime-text",
+        "logoColor": "#ff9800"
+      },
+      {
+        "name": "WebStorm",
+        "color": "#000000",
+        "logo": "webstorm",
+        "logoColor": "white"
+      },
+      {
+        "name": "Vim",
+        "color": "#11ab00",
+        "logo": "vim",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Databases",
+    "list": [
+      {
+        "name": "MySQL",
+        "color": "#4479a1",
+        "logo": "mysql",
+        "logoColor": "white"
+      },
+      {
+        "name": "Postgres",
+        "color": "#336791",
+        "logo": "postgresql",
+        "logoColor": "white"
+      },
+      {
+        "name": "MongoDB",
+        "color": "#4ea94b",
+        "logo": "mongodb",
+        "logoColor": "white"
+      }
+    ]
+  }
+]
