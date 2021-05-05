@@ -103,6 +103,12 @@
         "color": "#00599c",
         "logo": "c",
         "logoColor": "white"
+      },
+      {
+        "name": "Scala",
+        "color": "#dc322f",
+        "logo": "scala",
+        "logoColor": "white"
       }
     ]
   },
@@ -287,6 +293,12 @@
         "color": "#3ddc84",
         "logo": "android-studio",
         "logoColor": "white"
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "color": "#27282c",
+        "logo": "intellij-idea",
+        "logoColor": "white"
       }
     ]
   },
@@ -309,6 +321,18 @@
         "name": "MongoDB",
         "color": "#4ea94b",
         "logo": "mongodb",
+        "logoColor": "white"
+      },
+      {
+        "name": "Redis",
+        "color": "#a51f17",
+        "logo": "redis",
+        "logoColor": "white"
+      },
+      {
+        "name": "InfluxDB",
+        "color": "#00a3ff",
+        "logo": "influxdb",
         "logoColor": "white"
       }
     ]
@@ -338,6 +362,18 @@
         "name": "Sketch",
         "color": "#fa6400",
         "logo": "sketch",
+        "logoColor": "white"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "color": "#e68619",
+        "logo": "adobe-illustrator",
+        "logoColor": "white"
+      },
+      {
+        "name": "Adobe InDesign",
+        "color": "#ec5b62",
+        "logo": "adobe-indesign",
         "logoColor": "white"
       }
     ]
