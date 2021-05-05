@@ -312,5 +312,34 @@
         "logoColor": "white"
       }
     ]
+  },
+  {
+    "title": "Design",
+    "list": [
+      {
+        "name": "Figma",
+        "color": "#f24e1e",
+        "logo": "figma",
+        "logoColor": "white"
+      },
+      {
+        "name": "Adobe XD",
+        "color": "#470137",
+        "logo": "adobe-xd",
+        "logoColor": "white"
+      },
+      {
+        "name": "Photoshop",
+        "color": "#31a8ff",
+        "logo": "adobe-photoshop",
+        "logoColor": "white"
+      },
+      {
+        "name": "Sketch",
+        "color": "#fa6400",
+        "logo": "sketch",
+        "logoColor": "white"
+      }
+    ]
   }
 ]
