@@ -67,6 +67,42 @@
         "color": "#e10098",
         "logo": "graphql",
         "logoColor": "white"
+      },
+      {
+        "name": "Kotlin",
+        "color": "#0095d5",
+        "logo": "kotlin",
+        "logoColor": "white"
+      },
+      {
+        "name": "Java",
+        "color": "#ed8b00",
+        "logo": "java",
+        "logoColor": "white"
+      },
+      {
+        "name": "Ruby",
+        "color": "#cc342d",
+        "logo": "ruby",
+        "logoColor": "white"
+      },
+      {
+        "name": "Rust",
+        "color": "#000000",
+        "logo": "rust",
+        "logoColor": "white"
+      },
+      {
+        "name": "Lua",
+        "color": "#2c2d72",
+        "logo": "lua",
+        "logoColor": "white"
+      },
+      {
+        "name": "C",
+        "color": "#00599c",
+        "logo": "c",
+        "logoColor": "white"
       }
     ]
   },
@@ -110,6 +146,12 @@
         "logoColor": "white"
       },
       {
+        "name": "Nuxt.js",
+        "color": "#00c58e",
+        "logo": "nuxt.js",
+        "logoColor": "white"
+      },
+      {
         "name": "RxJS",
         "color": "#b7178c",
         "logo": "reactivex",
@@ -125,6 +167,84 @@
         "name": "NestJS",
         "color": "#e0234e",
         "logo": "nestjs",
+        "logoColor": "white"
+      },
+      {
+        "name": "Bootstrap",
+        "color": "#7952b3",
+        "logo": "bootstrap",
+        "logoColor": "white"
+      },
+      {
+        "name": "Material UI",
+        "color": "#0081cb",
+        "logo": "material-ui",
+        "logoColor": "white"
+      },
+      {
+        "name": "Ant Design",
+        "color": "#0170fe",
+        "logo": "ant-design",
+        "logoColor": "white"
+      },
+      {
+        "name": "jQuery",
+        "color": "#0769ad",
+        "logo": "jquery",
+        "logoColor": "white"
+      },
+      {
+        "name": "Django",
+        "color": "#092e20",
+        "logo": "django",
+        "logoColor": "white"
+      },
+      {
+        "name": "Flask",
+        "color": "#000000",
+        "logo": "flask",
+        "logoColor": "white"
+      },
+      {
+        "name": "Laravel",
+        "color": "#ff2d20",
+        "logo": "laravel",
+        "logoColor": "white"
+      },
+      {
+        "name": "Spring",
+        "color": "#6db33f",
+        "logo": "spring",
+        "logoColor": "white"
+      },
+      {
+        "name": "Webpack",
+        "color": "#1e72b3",
+        "logo": "webpack",
+        "logoColor": "white"
+      },
+      {
+        "name": "Babel",
+        "color": "#323330",
+        "logo": "babel",
+        "logoColor": "#f9dc3e"
+      },
+      {
+        "name": "Gatsby",
+        "color": "#663399",
+        "logo": "gatsby",
+        "logoColor": "white"
+      },
+      {
+        "name": "npm",
+        "color": "#cb0000",
+        "logo": "npm",
+        "logoColor": "white"
+      },
+      {
+        "name": "Yarn",
+        "color": "#2c8ebb",
+        "logo": "yarn",
         "logoColor": "white"
       }
     ]
@@ -160,6 +280,12 @@
         "name": "Vim",
         "color": "#11ab00",
         "logo": "vim",
+        "logoColor": "white"
+      },
+      {
+        "name": "Android Studio",
+        "color": "#3ddc84",
+        "logo": "android-studio",
         "logoColor": "white"
       }
     ]
