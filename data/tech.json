@@ -3,12 +3,6 @@
     "title": "Programming Languages",
     "list": [
       {
-        "name": "Node.js",
-        "color": "#43853d",
-        "logo": "node.js",
-        "logoColor": "white"
-      },
-      {
         "name": "JavaScript",
         "color": "#323330",
         "logo": "javascript",
@@ -63,12 +57,6 @@
         "logoColor": "white"
       },
       {
-        "name": "GraphQL",
-        "color": "#e10098",
-        "logo": "graphql",
-        "logoColor": "white"
-      },
-      {
         "name": "Kotlin",
         "color": "#0095d5",
         "logo": "kotlin",
@@ -77,7 +65,7 @@
       {
         "name": "Java",
         "color": "#ed8b00",
-        "logo": "java",
+        "logo": "openjdk",
         "logoColor": "white"
       },
       {
@@ -108,6 +96,113 @@
         "name": "Scala",
         "color": "#dc322f",
         "logo": "scala",
+        "logoColor": "white"
+      },
+      {
+        "name": "JSON",
+        "color": "#000000",
+        "logo": "json",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Operating System",
+    "list": [
+      {
+        "name": "Linux",
+        "color": "#fcc624",
+        "logo": "linux",
+        "logoColor": "white"
+      },
+      {
+        "name": "Windows",
+        "color": "#0078d6",
+        "logo": "windows",
+        "logoColor": "white"
+      },
+      {
+        "name": "macOS",
+        "color": "#000000",
+        "logo": "macos",
+        "logoColor": "white"
+      },
+      {
+        "name": "iOS",
+        "color": "#000000",
+        "logo": "ios",
+        "logoColor": "white"
+      },
+      {
+        "name": "Android",
+        "color": "#3ddc84",
+        "logo": "android",
+        "logoColor": "white"
+      },
+      {
+        "name": "Ubuntu",
+        "color": "#e95420",
+        "logo": "ubuntu",
+        "logoColor": "white"
+      },
+      {
+        "name": "Debian",
+        "color": "#a81d33",
+        "logo": "debian",
+        "logoColor": "white"
+      },
+      {
+        "name": "Arch Linux",
+        "color": "#1793d1",
+        "logo": "archlinux",
+        "logoColor": "white"
+      },
+      {
+        "name": "Linux Mint",
+        "color": "#87cf3e",
+        "logo": "linuxmint",
+        "logoColor": "white"
+      },
+      {
+        "name": "Alpine Linux",
+        "color": "#0d597f",
+        "logo": "alpinelinux",
+        "logoColor": "white"
+      },
+      {
+        "name": "LineageOS",
+        "color": "#167c80",
+        "logo": "lineageos",
+        "logoColor": "white"
+      },
+      {
+        "name": "KaiOS",
+        "color": "#6f02b5",
+        "logo": "kaios",
+        "logoColor": "white"
+      },
+      {
+        "name": "CentOS",
+        "color": "#262577",
+        "logo": "centos",
+        "logoColor": "white"
+      },
+      {
+        "name": "Wear OS",
+        "color": "#4285f4",
+        "logo": "wearos",
+        "logoColor": "white"
+      },
+      {
+        "name": "ReactOS",
+        "color": "#0088cc",
+        "logo": "reactos",
+        "logoColor": "white"
+      },
+      {
+        "name": "deepin",
+        "color": "#007cff",
+        "logo": "deepin",
         "logoColor": "white"
       }
     ]
@@ -182,9 +277,9 @@
         "logoColor": "white"
       },
       {
-        "name": "Material UI",
-        "color": "#0081cb",
-        "logo": "material-ui",
+        "name": "MUI",
+        "color": "#007fff",
+        "logo": "mui",
         "logoColor": "white"
       },
       {
@@ -251,6 +346,60 @@
         "name": "Yarn",
         "color": "#2c8ebb",
         "logo": "yarn",
+        "logoColor": "white"
+      },
+      {
+        "name": "GraphQL",
+        "color": "#e10098",
+        "logo": "graphql",
+        "logoColor": "white"
+      },
+      {
+        "name": "Alpine.js",
+        "color": "#8bc0d0",
+        "logo": "alpinedotjs",
+        "logoColor": "#333333"
+      },
+      {
+        "name": "AMP",
+        "color": "#005af0",
+        "logo": "amp",
+        "logoColor": "white"
+      },
+      {
+        "name": "Apache ECharts",
+        "color": "#aa344d",
+        "logo": "apacheecharts",
+        "logoColor": "white"
+      },
+      {
+        "name": "Apache",
+        "color": "#d22128",
+        "logo": "apache",
+        "logoColor": "white"
+      },
+      {
+        "name": "Bun",
+        "color": "#000000",
+        "logo": "bun",
+        "logoColor": "white"
+      },
+      {
+        "name": "Astro",
+        "color": "#ff5d01",
+        "logo": "astro",
+        "logoColor": "white"
+      },
+      {
+        "name": "Deno",
+        "color": "#000000",
+        "logo": "deno",
+        "logoColor": "white"
+      },
+      {
+        "name": "Node.js",
+        "color": "#43853d",
+        "logo": "node.js",
         "logoColor": "white"
       }
     ]
@@ -334,6 +483,12 @@
         "color": "#00a3ff",
         "logo": "influxdb",
         "logoColor": "white"
+      },
+      {
+        "name": "Apache CouchDB",
+        "color": "#e42528",
+        "logo": "apachecouchdb",
+        "logoColor": "white"
       }
     ]
   },
@@ -353,7 +508,7 @@
         "logoColor": "white"
       },
       {
-        "name": "Photoshop",
+        "name": "Adobe Photoshop",
         "color": "#31a8ff",
         "logo": "adobe-photoshop",
         "logoColor": "white"
@@ -374,6 +529,176 @@
         "name": "Adobe InDesign",
         "color": "#ec5b62",
         "logo": "adobe-indesign",
+        "logoColor": "white"
+      },
+      {
+        "name": "Adobe Lightroom",
+        "color": "#31a8ff",
+        "logo": "adobe-lightroom",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Cloud",
+    "list": [
+      {
+        "name": "Alibaba Cloud",
+        "color": "#ff6a00",
+        "logo": "alibabacloud",
+        "logoColor": "white"
+      },
+      {
+        "name": "Amazon AWS",
+        "color": "#232f3e",
+        "logo": "amazonaws",
+        "logoColor": "white"
+      },
+      {
+        "name": "Google Cloud",
+        "color": "#4285f4",
+        "logo": "googlecloud",
+        "logoColor": "white"
+      },
+      {
+        "name": "Microsoft Azure",
+        "color": "#0078d4",
+        "logo": "microsoftazure",
+        "logoColor": "white"
+      },
+      {
+        "name": "Cloudflare",
+        "color": "#f38020",
+        "logo": "cloudflare",
+        "logoColor": "white"
+      },
+      {
+        "name": "Vercel",
+        "color": "#000000",
+        "logo": "vercel",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Web Browser",
+    "list": [
+      {
+        "name": "Google Chrome",
+        "color": "#4285f4",
+        "logo": "googlechrome",
+        "logoColor": "white"
+      },
+      {
+        "name": "Microsoft Edge",
+        "color": "#0078d7",
+        "logo": "microsoftedge",
+        "logoColor": "white"
+      },
+      {
+        "name": "Firefox Browser",
+        "color": "#ff7139",
+        "logo": "firefoxbrowser",
+        "logoColor": "white"
+      },
+      {
+        "name": "Internet Explorer",
+        "color": "#0076d6",
+        "logo": "internetexplorer",
+        "logoColor": "white"
+      },
+      {
+        "name": "Safari",
+        "color": "#000000",
+        "logo": "safari",
+        "logoColor": "white"
+      },
+      {
+        "name": "Opera",
+        "color": "#ff1b2d",
+        "logo": "opera",
+        "logoColor": "white"
+      },
+      {
+        "name": "Tor Browser",
+        "color": "#7d4698",
+        "logo": "torbrowser",
+        "logoColor": "white"
+      },
+      {
+        "name": "Brave",
+        "color": "#fb542b",
+        "logo": "brave",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Tools",
+    "list": [
+      {
+        "name": "Airtable",
+        "color": "#18bfff",
+        "logo": "airtable",
+        "logoColor": "white"
+      },
+      {
+        "name": "Appwrite",
+        "color": "#f02e65",
+        "logo": "appwrite",
+        "logoColor": "white"
+      },
+      {
+        "name": "Supabase",
+        "color": "#3ecf8e",
+        "logo": "supabase",
+        "logoColor": "white"
+      },
+      {
+        "name": "Postman",
+        "color": "#ff6c37",
+        "logo": "postman",
+        "logoColor": "white"
+      },
+      {
+        "name": "Insomnia",
+        "color": "#4000bf",
+        "logo": "insomnia",
+        "logoColor": "white"
+      },
+      {
+        "name": "iTerm2",
+        "color": "#000000",
+        "logo": "iterm2",
+        "logoColor": "white"
+      }
+    ]
+  },
+  {
+    "title": "Misc",
+    "list": [
+      {
+        "name": ".ENV",
+        "color": "#ecd53f",
+        "logo": "dotenv",
+        "logoColor": "#333333"
+      },
+      {
+        "name": "AdGuard",
+        "color": "#68bc71",
+        "logo": "adguard",
+        "logoColor": "white"
+      },
+      {
+        "name": "AdBlock",
+        "color": "#f40d12",
+        "logo": "adblock",
+        "logoColor": "white"
+      },
+      {
+        "name": "Adblock Plus",
+        "color": "#c70d2c",
+        "logo": "adblockplus",
         "logoColor": "white"
       }
     ]
