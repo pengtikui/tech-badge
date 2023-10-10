@@ -705,6 +705,13 @@
   },
   {
     "title": "Testing",
-    "list": []
+    "list": [
+      {
+        "name": "Jest",
+        "color": "#1BC115",
+        "logo": "jest",
+        "logoColor": "white"
+      }
+    ]
   }
 ]
