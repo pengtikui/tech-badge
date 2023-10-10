@@ -711,6 +711,12 @@
         "color": "#1BC115",
         "logo": "jest",
         "logoColor": "white"
+      },
+      {
+        "name": "Cypress",
+        "color": "#9FE5C8",
+        "logo": "cypress",
+        "logoColor": "#1C1E2E"
       }
     ]
   }
